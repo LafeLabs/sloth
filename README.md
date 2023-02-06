@@ -1,6 +1,10 @@
-# [TRASHNET](https://github.com/LafeLabs/trashnet)
+# [SLOTH!](https://github.com/LafeLabs/sloth)
 
-# [TRASHBOOK](https://trashbook.sloanslake.art)
+![](https://raw.githubusercontent.com/LafeLabs/sloth/main/sloths/sloth1.png)
+
+### [TRASHNET](https://github.com/LafeLabs/trashnet)
+
+### [TRASHBOOK](https://trashbook.sloanslake.art)
 
 ![](https://raw.githubusercontent.com/LafeLabs/trashnet/main/trashmagic/trashnet2.png)
 
