@@ -1,0 +1,45 @@
+{
+    "html": [
+        "README.md",
+        "board.html",
+        "board.txt",
+        "books.html",
+        "distro.html",
+        "forkdestroyer.html",
+        "index.html",
+        "label.html",
+        "linkeditor.html",
+        "links.html",
+        "podcast.html",
+        "qrcode-page.html",
+        "qrcode.html",
+        "readme.html",
+        "readmeeditor.html",
+        "replicators.html",
+        "trashbook.html",
+        "trashmagic.css",
+        "trashmagic.html",
+        "trashmagic.js",
+        "trashrobot.html",
+        "webdestroyer.html",
+        "webeditor.html"
+    ],
+    "data": [
+        "dna.txt"
+    ],
+    "php": [
+        "copy.txt",
+        "deletefile.txt",
+        "dir.txt",
+        "dirdir.txt",
+        "dnagenerator.txt",
+        "editor.txt",
+        "fileloader.txt",
+        "filesaver.txt",
+        "mkdir.txt",
+        "rdelete.txt",
+        "rdir.txt",
+        "replicator.txt",
+        "text2php.txt"
+    ]
+}
